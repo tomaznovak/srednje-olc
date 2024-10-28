@@ -1,4 +1,3 @@
-
-__pycache__
-study/
+__pycache__/
 .env
+study/
